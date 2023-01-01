@@ -1,0 +1,127 @@
+1) What is AWS ? 
+
+Amazon Web Services. It is a cloud platform. It is a collection of web services. 
+
+2) What is service? 
+
+Service is a specific utility which helps the clients.  
+
+Eg: Google drive is a storage service. 
+
+Gmail is an email service. 
+
+3) Top three cloud platforms are AWS, Azure, GCP 
+
+Cloud platform offers availability, Scalability, pay-as-you-go. 
+
+Availability means there is no downtime. Only pre-requisite is to have an internet connection. 
+
+Scalability is ability to grow in size. Instant elasticity (scaling up and down). Eliminate guessing of your infrastructure capacity needs. 
+
+Pay-as-you-go is low ongoing cost, pay-as-you-go pricing with no upfront expenses or long-term commitments. 
+
+4) What are the services provided by AWS? 
+
+Compute 
+
+Storage 
+
+Database 
+
+Migration 
+
+Network and Content Delivery 
+
+Management Tools 
+
+Security & Identity Compliance 
+
+Messaging 
+
+#Compute Services 
+
+includes services related to compute workloads. 
+
+EC2 (Elastic Compute Cloud) 
+
+Lambda 
+
+Elastic Beanstalk 
+
+#Storage Services 
+
+includes services related data storage 
+
+S3 (Simple Storage Service) 
+
+Elastic Block Store 
+
+Amazon Glacier 
+
+AWS Snowball 
+
+#Database Services 
+
+used for database related workloads 
+
+Amazon Aurora 
+
+Amazon RDS 
+
+Amazon DynamoDB 
+
+Amazon RedShift 
+
+#Migration Services 
+
+used for transferring data to or from the AWS Infrastructure 
+
+AWS Database Migration Service 
+
+AWS SnowBall 
+
+#Networking and Content Delivery Services 
+
+used for isolating your network infrastructure, and content delivery is used for faster delivery of content. 
+
+Amazon Route 53 
+
+AWS CloudFront 
+
+#Management Tools 
+
+consists of services which are used to manage other services in AWS 
+
+AWS CloudWatch 
+
+AWS CloudFomation 
+
+AWS CloudTrail 
+
+#Security & Identity, Compliance Services 
+
+services which are used to manage to authenticate and provide security to your AWS resources 
+
+AWS IAM 
+
+AWS KMS 
+
+AWS Shield 
+
+#Messaging Services 
+
+consists of services which are used for queuing, notifying or emailing messages 
+
+Amazon SQS 
+
+Amazon SNS 
+
+Amazon SES 
+
+Amazon Pinpoint 
+
+5) Advantages of AWS 
+
+Easy to use, Flexible, Cost-Effective, Reliable, Scalable and high-performance, end-to-end security. 
+
+ 
